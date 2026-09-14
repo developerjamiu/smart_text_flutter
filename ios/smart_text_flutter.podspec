@@ -11,7 +11,7 @@ This plugin can be used to find links in plain texts. It uses NSDataDetector for
                        DESC
   s.homepage         = 'https://github.com/developerjamiu/smart_text_flutter'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'developerjamiu' => 'developerjamiu@users.noreply.github.com' }
   s.source           = { :path => '.' }
   s.source_files = 'smart_text_flutter/Sources/smart_text_flutter/**/*.swift'
   s.dependency 'Flutter'
