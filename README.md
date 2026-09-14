@@ -8,6 +8,8 @@ A Flutter plugin used to find links in plain texts.
 
 It uses [NSDataDetector](https://developer.apple.com/documentation/foundation/nsdatadetector) for iOS and [TextClassifier](https://developer.android.com/reference/android/view/textclassifier/TextClassifier) for Android.
 
+On iOS the plugin ships both a Swift package and a podspec, so it works whether your app uses Swift Package Manager or CocoaPods.
+
 **Texts (links) can be among these 6 types**
 
 ```Dart
