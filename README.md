@@ -45,7 +45,7 @@ class SmartTextFlutterExample extends StatelessWidget {
 
 **Demo**
 
-![ScreenRecording2024-03-12at17 38 55-ezgif com-resize](https://github.com/developerjamiu/smart-text-flutter/assets/50176100/dfb4f68e-77d3-4acc-9e07-a27239aa519b)
+![ScreenRecording2024-03-12at17 38 55-ezgif com-resize](https://github.com/developerjamiu/smart_text_flutter/assets/50176100/dfb4f68e-77d3-4acc-9e07-a27239aa519b)
 
 ## Notes
 
@@ -242,4 +242,4 @@ class _SmartTextFlutterExampleState extends State<SmartTextFlutterExample> {
 
 ## Bugs/Requests
 
-If you encounter any problems feel free to open an issue [here](https://github.com/developerjamiu/smart-text-flutter/issues). If you feel the library is missing a feature, please raise a ticket on GitHub and I'll look into it. Pull requests are also welcome.
+If you encounter any problems feel free to open an issue [here](https://github.com/developerjamiu/smart_text_flutter/issues). If you feel the library is missing a feature, please raise a ticket on GitHub and I'll look into it. Pull requests are also welcome.
