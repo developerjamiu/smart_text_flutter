@@ -4,7 +4,7 @@ A Flutter plugin used to find links in plain texts.
 
 |             | Android | iOS   |
 | ----------- | ------- | ----- |
-| **Support** | SDK 19+ | 11.0+ |
+| **Support** | SDK 19+ | 13.0+ |
 
 It uses [NSDataDetector](https://developer.apple.com/documentation/foundation/nsdatadetector) for iOS and [TextClassifier](https://developer.android.com/reference/android/view/textclassifier/TextClassifier) for Android.
 

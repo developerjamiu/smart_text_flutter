@@ -1,34 +1,16 @@
 PODS:
   - Flutter (1.0.0)
-  - integration_test (0.0.1):
-    - Flutter
-  - smart_text_flutter (0.0.1):
-    - Flutter
-  - url_launcher_ios (0.0.1):
-    - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - integration_test (from `.symlinks/plugins/integration_test/ios`)
-  - smart_text_flutter (from `.symlinks/plugins/smart_text_flutter/ios`)
-  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  integration_test:
-    :path: ".symlinks/plugins/integration_test/ios"
-  smart_text_flutter:
-    :path: ".symlinks/plugins/smart_text_flutter/ios"
-  url_launcher_ios:
-    :path: ".symlinks/plugins/url_launcher_ios/ios"
 
 SPEC CHECKSUMS:
-  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
-  smart_text_flutter: fe08e460b88733c16c57f19f64cfd1dd4814f551
-  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
 
-PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+PODFILE CHECKSUM: 4f1c12611da7338d21589c0b2ecd6bd20b109694
 
-COCOAPODS: 1.16.2
+COCOAPODS: 1.17.0
