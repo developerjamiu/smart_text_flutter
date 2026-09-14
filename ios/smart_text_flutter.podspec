@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 This plugin can be used to find links in plain texts. It uses NSDataDetector for iOS and TextClassifier for Android.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://github.com/developerjamiu/smart_text_flutter'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }

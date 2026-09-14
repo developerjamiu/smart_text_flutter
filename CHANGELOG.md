@@ -1,3 +1,15 @@
+## 0.4.0
+
+### Added
+
+- Swift Package Manager support on iOS
+
+### Changed
+
+- **Breaking**: the minimum iOS version is now 13.0 (previously 11.0)
+- The minimum Flutter version is now 3.35.0, the release in which Flutter's own
+  iOS minimum became 13.0
+
 ## 0.3.5
 
 ### Added
